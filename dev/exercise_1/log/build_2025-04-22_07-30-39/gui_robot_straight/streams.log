@@ -1,0 +1,37 @@
+[0.751s] Invoking command in '/home/nand_mahasreeki_23/ADAS/exercise_1/src/gui_robot_straight': PYTHONPATH=/home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gui_robot_straight build --build-base /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/build install --record /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/install.log --single-version-externally-managed install_data
+[0.939s] running egg_info
+[0.939s] creating ../../build/gui_robot_straight/gui_robot_straight.egg-info
+[0.952s] writing ../../build/gui_robot_straight/gui_robot_straight.egg-info/PKG-INFO
+[0.952s] writing dependency_links to ../../build/gui_robot_straight/gui_robot_straight.egg-info/dependency_links.txt
+[0.953s] writing entry points to ../../build/gui_robot_straight/gui_robot_straight.egg-info/entry_points.txt
+[0.953s] writing requirements to ../../build/gui_robot_straight/gui_robot_straight.egg-info/requires.txt
+[0.953s] writing top-level names to ../../build/gui_robot_straight/gui_robot_straight.egg-info/top_level.txt
+[0.953s] writing manifest file '../../build/gui_robot_straight/gui_robot_straight.egg-info/SOURCES.txt'
+[0.980s] reading manifest file '../../build/gui_robot_straight/gui_robot_straight.egg-info/SOURCES.txt'
+[0.980s] writing manifest file '../../build/gui_robot_straight/gui_robot_straight.egg-info/SOURCES.txt'
+[0.981s] running build
+[0.981s] running build_py
+[0.981s] creating /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/build
+[0.981s] creating /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/build/lib
+[0.981s] creating /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/build/lib/gui_robot_straight
+[0.981s] copying gui_robot_straight/straight_simulator.py -> /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/build/lib/gui_robot_straight
+[0.981s] copying gui_robot_straight/__init__.py -> /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/build/lib/gui_robot_straight
+[0.982s] running install
+[0.986s] running install_lib
+[1.000s] creating /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/lib/python3.12/site-packages/gui_robot_straight
+[1.000s] copying /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/build/lib/gui_robot_straight/straight_simulator.py -> /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/lib/python3.12/site-packages/gui_robot_straight
+[1.001s] copying /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/build/lib/gui_robot_straight/__init__.py -> /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/lib/python3.12/site-packages/gui_robot_straight
+[1.001s] byte-compiling /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/lib/python3.12/site-packages/gui_robot_straight/straight_simulator.py to straight_simulator.cpython-312.pyc
+[1.002s] byte-compiling /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/lib/python3.12/site-packages/gui_robot_straight/__init__.py to __init__.cpython-312.pyc
+[1.002s] running install_data
+[1.003s] creating /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/share/ament_index
+[1.003s] creating /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/share/ament_index/resource_index
+[1.004s] creating /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/share/ament_index/resource_index/packages
+[1.004s] copying resource/gui_robot_straight -> /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/share/ament_index/resource_index/packages
+[1.004s] copying package.xml -> /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/share/gui_robot_straight
+[1.004s] running install_egg_info
+[1.019s] Copying ../../build/gui_robot_straight/gui_robot_straight.egg-info to /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/lib/python3.12/site-packages/gui_robot_straight-0.0.0-py3.12.egg-info
+[1.020s] running install_scripts
+[1.110s] Installing straight_simulator script to /home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/lib/gui_robot_straight
+[1.110s] writing list of installed files to '/home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/install.log'
+[1.131s] Invoked command in '/home/nand_mahasreeki_23/ADAS/exercise_1/src/gui_robot_straight' returned '0': PYTHONPATH=/home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/ADAS/exercise_1/install/gui_robot_straight/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gui_robot_straight build --build-base /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/build install --record /home/nand_mahasreeki_23/ADAS/exercise_1/build/gui_robot_straight/install.log --single-version-externally-managed install_data
