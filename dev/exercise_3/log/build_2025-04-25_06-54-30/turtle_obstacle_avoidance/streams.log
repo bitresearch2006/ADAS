@@ -1,0 +1,37 @@
+[1.024s] Invoking command in '/home/nand_mahasreeki_23/slam_ws/src/turtle_obstacle_avoidance': PYTHONPATH=/home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_obstacle_avoidance build --build-base /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/build install --record /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/install.log --single-version-externally-managed install_data
+[1.220s] running egg_info
+[1.221s] creating ../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info
+[1.234s] writing ../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info/PKG-INFO
+[1.235s] writing dependency_links to ../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info/dependency_links.txt
+[1.235s] writing entry points to ../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info/entry_points.txt
+[1.235s] writing requirements to ../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info/requires.txt
+[1.235s] writing top-level names to ../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info/top_level.txt
+[1.235s] writing manifest file '../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info/SOURCES.txt'
+[1.263s] reading manifest file '../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info/SOURCES.txt'
+[1.264s] writing manifest file '../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info/SOURCES.txt'
+[1.264s] running build
+[1.264s] running build_py
+[1.264s] creating /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/build
+[1.264s] creating /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/build/lib
+[1.265s] creating /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/build/lib/turtle_obstacle_avoidance
+[1.265s] copying turtle_obstacle_avoidance/obstacle_avoider.py -> /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/build/lib/turtle_obstacle_avoidance
+[1.265s] copying turtle_obstacle_avoidance/__init__.py -> /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/build/lib/turtle_obstacle_avoidance
+[1.266s] running install
+[1.271s] running install_lib
+[1.285s] creating /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/lib/python3.12/site-packages/turtle_obstacle_avoidance
+[1.285s] copying /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/build/lib/turtle_obstacle_avoidance/obstacle_avoider.py -> /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/lib/python3.12/site-packages/turtle_obstacle_avoidance
+[1.286s] copying /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/build/lib/turtle_obstacle_avoidance/__init__.py -> /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/lib/python3.12/site-packages/turtle_obstacle_avoidance
+[1.286s] byte-compiling /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/lib/python3.12/site-packages/turtle_obstacle_avoidance/obstacle_avoider.py to obstacle_avoider.cpython-312.pyc
+[1.286s] byte-compiling /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/lib/python3.12/site-packages/turtle_obstacle_avoidance/__init__.py to __init__.cpython-312.pyc
+[1.287s] running install_data
+[1.287s] creating /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/share/ament_index
+[1.287s] creating /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/share/ament_index/resource_index
+[1.287s] creating /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/share/ament_index/resource_index/packages
+[1.287s] copying resource/turtle_obstacle_avoidance -> /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/share/ament_index/resource_index/packages
+[1.287s] copying package.xml -> /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/share/turtle_obstacle_avoidance
+[1.288s] running install_egg_info
+[1.303s] Copying ../../build/turtle_obstacle_avoidance/turtle_obstacle_avoidance.egg-info to /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/lib/python3.12/site-packages/turtle_obstacle_avoidance-0.0.0-py3.12.egg-info
+[1.303s] running install_scripts
+[1.396s] Installing obstacle_avoider script to /home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/lib/turtle_obstacle_avoidance
+[1.397s] writing list of installed files to '/home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/install.log'
+[1.426s] Invoked command in '/home/nand_mahasreeki_23/slam_ws/src/turtle_obstacle_avoidance' returned '0': PYTHONPATH=/home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/slam_ws/install/turtle_obstacle_avoidance/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_obstacle_avoidance build --build-base /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/build install --record /home/nand_mahasreeki_23/slam_ws/build/turtle_obstacle_avoidance/install.log --single-version-externally-managed install_data

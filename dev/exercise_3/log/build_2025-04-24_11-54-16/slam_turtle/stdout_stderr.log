@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/slam_turtle/slam_turtle.egg-info/PKG-INFO
+writing dependency_links to ../../build/slam_turtle/slam_turtle.egg-info/dependency_links.txt
+writing entry points to ../../build/slam_turtle/slam_turtle.egg-info/entry_points.txt
+writing requirements to ../../build/slam_turtle/slam_turtle.egg-info/requires.txt
+writing top-level names to ../../build/slam_turtle/slam_turtle.egg-info/top_level.txt
+reading manifest file '../../build/slam_turtle/slam_turtle.egg-info/SOURCES.txt'
+writing manifest file '../../build/slam_turtle/slam_turtle.egg-info/SOURCES.txt'
+running build
+running build_py
+copying slam_turtle/free_movement.py -> /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build/lib/slam_turtle
+running install
+running install_lib
+copying /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build/lib/slam_turtle/free_movement.py -> /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle
+byte-compiling /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle/free_movement.py to free_movement.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/slam_turtle/slam_turtle.egg-info to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle-0.0.0-py3.12.egg-info
+running install_scripts
+Installing free_mover script to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/slam_turtle
+Installing random_mover script to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/slam_turtle
+Installing slam_like_node script to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/slam_turtle
+writing list of installed files to '/home/nand_mahasreeki_23/slam_ws/build/slam_turtle/install.log'

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: slam-turtle
+Version: 0.0.0
+Summary: A basic SLAM-like simulation using Turtlesim in ROS 2
+Maintainer: nand_mahasreeki_23
+Maintainer-email: nand_mahasreeki_23@todo.todo
+License: Apache-2.0
