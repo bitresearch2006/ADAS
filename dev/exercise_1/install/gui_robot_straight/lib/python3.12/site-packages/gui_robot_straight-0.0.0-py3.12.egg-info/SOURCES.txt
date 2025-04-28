@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/gui_robot_straight/gui_robot_straight.egg-info/PKG-INFO
+../../build/gui_robot_straight/gui_robot_straight.egg-info/SOURCES.txt
+../../build/gui_robot_straight/gui_robot_straight.egg-info/dependency_links.txt
+../../build/gui_robot_straight/gui_robot_straight.egg-info/entry_points.txt
+../../build/gui_robot_straight/gui_robot_straight.egg-info/requires.txt
+../../build/gui_robot_straight/gui_robot_straight.egg-info/top_level.txt
+../../build/gui_robot_straight/gui_robot_straight.egg-info/zip-safe
+gui_robot_straight/__init__.py
+gui_robot_straight/straight_simulator.py
+resource/gui_robot_straight
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

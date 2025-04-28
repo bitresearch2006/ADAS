@@ -1,0 +1,4 @@
+[console_scripts]
+obstacle_avoider = turtle_obstacle_avoidance.obstacle_avoider:main
+spiral_search = turtle_obstacle_avoidance.spiral_search:main
+waypoint_navigator = turtle_obstacle_avoidance.waypoint_navigator:main

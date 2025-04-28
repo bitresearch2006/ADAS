@@ -1,0 +1,2 @@
+[console_scripts]
+straight_simulator = gui_robot_straight.straight_simulator:main

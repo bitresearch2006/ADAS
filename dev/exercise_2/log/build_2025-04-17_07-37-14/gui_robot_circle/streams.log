@@ -1,0 +1,19 @@
+[0.521s] Invoking command in '/home/nand_mahasreeki_23/ADAS/exercise_2/src': PYTHONPATH=/home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/gui_robot_circle build --build-base /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/build install --record /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/install.log --single-version-externally-managed install_data
+[0.697s] running egg_info
+[0.710s] writing ../build/gui_robot_circle/gui_robot_circle.egg-info/PKG-INFO
+[0.710s] writing dependency_links to ../build/gui_robot_circle/gui_robot_circle.egg-info/dependency_links.txt
+[0.710s] writing entry points to ../build/gui_robot_circle/gui_robot_circle.egg-info/entry_points.txt
+[0.710s] writing requirements to ../build/gui_robot_circle/gui_robot_circle.egg-info/requires.txt
+[0.711s] writing top-level names to ../build/gui_robot_circle/gui_robot_circle.egg-info/top_level.txt
+[0.723s] reading manifest file '../build/gui_robot_circle/gui_robot_circle.egg-info/SOURCES.txt'
+[0.723s] writing manifest file '../build/gui_robot_circle/gui_robot_circle.egg-info/SOURCES.txt'
+[0.724s] running build
+[0.724s] running install
+[0.728s] running install_data
+[0.729s] running install_egg_info
+[0.755s] removing '/home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages/gui_robot_circle-0.0.0-py3.12.egg-info' (and everything under it)
+[0.755s] Copying ../build/gui_robot_circle/gui_robot_circle.egg-info to /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages/gui_robot_circle-0.0.0-py3.12.egg-info
+[0.756s] running install_scripts
+[0.840s] Installing circle_robot script to /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/gui_robot_circle
+[0.840s] writing list of installed files to '/home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/install.log'
+[0.860s] Invoked command in '/home/nand_mahasreeki_23/ADAS/exercise_2/src' returned '0': PYTHONPATH=/home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/gui_robot_circle build --build-base /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/build install --record /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/install.log --single-version-externally-managed install_data

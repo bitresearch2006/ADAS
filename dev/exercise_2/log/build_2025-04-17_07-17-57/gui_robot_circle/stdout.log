@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/gui_robot_circle/gui_robot_circle.egg-info
+writing ../../build/gui_robot_circle/gui_robot_circle.egg-info/PKG-INFO
+writing dependency_links to ../../build/gui_robot_circle/gui_robot_circle.egg-info/dependency_links.txt
+writing entry points to ../../build/gui_robot_circle/gui_robot_circle.egg-info/entry_points.txt
+writing requirements to ../../build/gui_robot_circle/gui_robot_circle.egg-info/requires.txt
+writing top-level names to ../../build/gui_robot_circle/gui_robot_circle.egg-info/top_level.txt
+writing manifest file '../../build/gui_robot_circle/gui_robot_circle.egg-info/SOURCES.txt'
+reading manifest file '../../build/gui_robot_circle/gui_robot_circle.egg-info/SOURCES.txt'
+writing manifest file '../../build/gui_robot_circle/gui_robot_circle.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/build
+creating /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/build/lib
+creating /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/build/lib/gui_robot_circle
+copying gui_robot_circle/circle_simulator.py -> /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/build/lib/gui_robot_circle
+copying gui_robot_circle/__init__.py -> /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/build/lib/gui_robot_circle
+running install
+running install_lib
+creating /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages/gui_robot_circle
+copying /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/build/lib/gui_robot_circle/circle_simulator.py -> /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages/gui_robot_circle
+copying /home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/build/lib/gui_robot_circle/__init__.py -> /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages/gui_robot_circle
+byte-compiling /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages/gui_robot_circle/circle_simulator.py to circle_simulator.cpython-312.pyc
+byte-compiling /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages/gui_robot_circle/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/share/ament_index
+creating /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/share/ament_index/resource_index
+creating /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/share/ament_index/resource_index/packages
+copying resource/gui_robot_circle -> /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/share/ament_index/resource_index/packages
+copying package.xml -> /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/share/gui_robot_circle
+running install_egg_info
+Copying ../../build/gui_robot_circle/gui_robot_circle.egg-info to /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/python3.12/site-packages/gui_robot_circle-0.0.0-py3.12.egg-info
+running install_scripts
+Installing circle_robot script to /home/nand_mahasreeki_23/ADAS/exercise_2/install/gui_robot_circle/lib/gui_robot_circle
+writing list of installed files to '/home/nand_mahasreeki_23/ADAS/exercise_2/build/gui_robot_circle/install.log'

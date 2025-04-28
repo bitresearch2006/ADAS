@@ -1,0 +1,37 @@
+[0.810s] Invoking command in '/home/nand_mahasreeki_23/slam_ws/src/slam_turtle': PYTHONPATH=/home/nand_mahasreeki_23/slam_ws/build/slam_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/slam_turtle build --build-base /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build install --record /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/install.log --single-version-externally-managed install_data
+[1.000s] running egg_info
+[1.000s] creating ../../build/slam_turtle/slam_turtle.egg-info
+[1.014s] writing ../../build/slam_turtle/slam_turtle.egg-info/PKG-INFO
+[1.014s] writing dependency_links to ../../build/slam_turtle/slam_turtle.egg-info/dependency_links.txt
+[1.014s] writing entry points to ../../build/slam_turtle/slam_turtle.egg-info/entry_points.txt
+[1.015s] writing requirements to ../../build/slam_turtle/slam_turtle.egg-info/requires.txt
+[1.015s] writing top-level names to ../../build/slam_turtle/slam_turtle.egg-info/top_level.txt
+[1.015s] writing manifest file '../../build/slam_turtle/slam_turtle.egg-info/SOURCES.txt'
+[1.041s] reading manifest file '../../build/slam_turtle/slam_turtle.egg-info/SOURCES.txt'
+[1.042s] writing manifest file '../../build/slam_turtle/slam_turtle.egg-info/SOURCES.txt'
+[1.042s] running build
+[1.042s] running build_py
+[1.042s] creating /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build
+[1.043s] creating /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build/lib
+[1.043s] creating /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build/lib/slam_turtle
+[1.044s] copying slam_turtle/slam_like_node.py -> /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build/lib/slam_turtle
+[1.044s] copying slam_turtle/__init__.py -> /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build/lib/slam_turtle
+[1.044s] running install
+[1.049s] running install_lib
+[1.062s] creating /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle
+[1.063s] copying /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build/lib/slam_turtle/slam_like_node.py -> /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle
+[1.063s] copying /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build/lib/slam_turtle/__init__.py -> /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle
+[1.063s] byte-compiling /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle/slam_like_node.py to slam_like_node.cpython-312.pyc
+[1.064s] byte-compiling /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle/__init__.py to __init__.cpython-312.pyc
+[1.065s] running install_data
+[1.065s] creating /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/share/ament_index
+[1.065s] creating /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/share/ament_index/resource_index
+[1.066s] creating /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/share/ament_index/resource_index/packages
+[1.066s] copying resource/slam_turtle -> /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/share/ament_index/resource_index/packages
+[1.066s] copying package.xml -> /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/share/slam_turtle
+[1.066s] running install_egg_info
+[1.081s] Copying ../../build/slam_turtle/slam_turtle.egg-info to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle-0.0.0-py3.12.egg-info
+[1.081s] running install_scripts
+[1.171s] Installing slam_like_node script to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/slam_turtle
+[1.172s] writing list of installed files to '/home/nand_mahasreeki_23/slam_ws/build/slam_turtle/install.log'
+[1.192s] Invoked command in '/home/nand_mahasreeki_23/slam_ws/src/slam_turtle' returned '0': PYTHONPATH=/home/nand_mahasreeki_23/slam_ws/build/slam_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/slam_turtle build --build-base /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build install --record /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/install.log --single-version-externally-managed install_data

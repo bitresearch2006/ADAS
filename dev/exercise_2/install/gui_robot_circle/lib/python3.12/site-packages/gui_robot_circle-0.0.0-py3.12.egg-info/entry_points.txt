@@ -1,0 +1,2 @@
+[console_scripts]
+circle_simulator = gui_robot_circle.circle_simulator:main

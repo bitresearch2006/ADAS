@@ -1,0 +1,4 @@
+[console_scripts]
+free_mover = slam_turtle.free_movement:main
+random_mover = slam_turtle.random_movement:main
+slam_like_node = slam_turtle.slam_like_node:main

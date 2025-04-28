@@ -1,0 +1,23 @@
+[1.031s] Invoking command in '/home/nand_mahasreeki_23/slam_ws/src/slam_turtle': PYTHONPATH=/home/nand_mahasreeki_23/slam_ws/build/slam_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/slam_turtle build --build-base /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build install --record /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/install.log --single-version-externally-managed install_data
+[1.226s] running egg_info
+[1.240s] writing ../../build/slam_turtle/slam_turtle.egg-info/PKG-INFO
+[1.241s] writing dependency_links to ../../build/slam_turtle/slam_turtle.egg-info/dependency_links.txt
+[1.241s] writing entry points to ../../build/slam_turtle/slam_turtle.egg-info/entry_points.txt
+[1.241s] writing requirements to ../../build/slam_turtle/slam_turtle.egg-info/requires.txt
+[1.241s] writing top-level names to ../../build/slam_turtle/slam_turtle.egg-info/top_level.txt
+[1.270s] reading manifest file '../../build/slam_turtle/slam_turtle.egg-info/SOURCES.txt'
+[1.271s] writing manifest file '../../build/slam_turtle/slam_turtle.egg-info/SOURCES.txt'
+[1.271s] running build
+[1.271s] running build_py
+[1.271s] running install
+[1.277s] running install_lib
+[1.292s] running install_data
+[1.292s] running install_egg_info
+[1.307s] removing '/home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle-0.0.0-py3.12.egg-info' (and everything under it)
+[1.308s] Copying ../../build/slam_turtle/slam_turtle.egg-info to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages/slam_turtle-0.0.0-py3.12.egg-info
+[1.309s] running install_scripts
+[1.405s] Installing free_mover script to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/slam_turtle
+[1.406s] Installing random_mover script to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/slam_turtle
+[1.406s] Installing slam_like_node script to /home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/slam_turtle
+[1.406s] writing list of installed files to '/home/nand_mahasreeki_23/slam_ws/build/slam_turtle/install.log'
+[1.453s] Invoked command in '/home/nand_mahasreeki_23/slam_ws/src/slam_turtle' returned '0': PYTHONPATH=/home/nand_mahasreeki_23/slam_ws/build/slam_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nand_mahasreeki_23/slam_ws/install/slam_turtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/slam_turtle build --build-base /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/build install --record /home/nand_mahasreeki_23/slam_ws/build/slam_turtle/install.log --single-version-externally-managed install_data
