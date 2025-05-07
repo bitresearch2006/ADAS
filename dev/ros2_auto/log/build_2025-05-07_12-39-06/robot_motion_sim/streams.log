@@ -1,0 +1,41 @@
+[0.530s] Invoking command in '/home/mahasreeki_23/ros2_auto/src/robot_motion_sim': PYTHONPATH=/home/mahasreeki_23/ros2_auto/build/robot_motion_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_motion_sim build --build-base /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build install --record /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/install.log --single-version-externally-managed install_data
+[0.679s] running egg_info
+[0.680s] creating ../../build/robot_motion_sim/robot_motion_sim.egg-info
+[0.680s] writing ../../build/robot_motion_sim/robot_motion_sim.egg-info/PKG-INFO
+[0.680s] writing dependency_links to ../../build/robot_motion_sim/robot_motion_sim.egg-info/dependency_links.txt
+[0.680s] writing entry points to ../../build/robot_motion_sim/robot_motion_sim.egg-info/entry_points.txt
+[0.680s] writing requirements to ../../build/robot_motion_sim/robot_motion_sim.egg-info/requires.txt
+[0.681s] writing top-level names to ../../build/robot_motion_sim/robot_motion_sim.egg-info/top_level.txt
+[0.681s] writing manifest file '../../build/robot_motion_sim/robot_motion_sim.egg-info/SOURCES.txt'
+[0.682s] reading manifest file '../../build/robot_motion_sim/robot_motion_sim.egg-info/SOURCES.txt'
+[0.682s] writing manifest file '../../build/robot_motion_sim/robot_motion_sim.egg-info/SOURCES.txt'
+[0.682s] running build
+[0.682s] running build_py
+[0.683s] creating /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build
+[0.683s] creating /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build/lib
+[0.683s] creating /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build/lib/robot_motion_sim
+[0.683s] copying robot_motion_sim/__init__.py -> /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build/lib/robot_motion_sim
+[0.683s] copying robot_motion_sim/motion_node.py -> /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build/lib/robot_motion_sim
+[0.683s] copying robot_motion_sim/sensor_simulator.py -> /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build/lib/robot_motion_sim
+[0.684s] running install
+[0.684s] running install_lib
+[0.684s] creating /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages/robot_motion_sim
+[0.685s] copying /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build/lib/robot_motion_sim/__init__.py -> /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages/robot_motion_sim
+[0.685s] copying /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build/lib/robot_motion_sim/motion_node.py -> /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages/robot_motion_sim
+[0.685s] copying /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build/lib/robot_motion_sim/sensor_simulator.py -> /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages/robot_motion_sim
+[0.685s] byte-compiling /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages/robot_motion_sim/__init__.py to __init__.cpython-310.pyc
+[0.685s] byte-compiling /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages/robot_motion_sim/motion_node.py to motion_node.cpython-310.pyc
+[0.686s] byte-compiling /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages/robot_motion_sim/sensor_simulator.py to sensor_simulator.cpython-310.pyc
+[0.686s] running install_data
+[0.686s] creating /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/share/ament_index
+[0.686s] creating /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/share/ament_index/resource_index
+[0.687s] creating /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/share/ament_index/resource_index/packages
+[0.687s] copying resource/robot_motion_sim -> /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/share/ament_index/resource_index/packages
+[0.687s] copying package.xml -> /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/share/robot_motion_sim
+[0.687s] running install_egg_info
+[0.688s] Copying ../../build/robot_motion_sim/robot_motion_sim.egg-info to /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages/robot_motion_sim-0.0.0-py3.10.egg-info
+[0.688s] running install_scripts
+[0.702s] Installing motion_node script to /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/robot_motion_sim
+[0.702s] Installing sensor_simulator script to /home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/robot_motion_sim
+[0.702s] writing list of installed files to '/home/mahasreeki_23/ros2_auto/build/robot_motion_sim/install.log'
+[0.719s] Invoked command in '/home/mahasreeki_23/ros2_auto/src/robot_motion_sim' returned '0': PYTHONPATH=/home/mahasreeki_23/ros2_auto/build/robot_motion_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahasreeki_23/ros2_auto/install/robot_motion_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_motion_sim build --build-base /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/build install --record /home/mahasreeki_23/ros2_auto/build/robot_motion_sim/install.log --single-version-externally-managed install_data

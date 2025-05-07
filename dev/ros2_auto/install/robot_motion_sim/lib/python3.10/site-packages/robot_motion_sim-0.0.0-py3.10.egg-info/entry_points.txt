@@ -1,0 +1,4 @@
+[console_scripts]
+motion_node = robot_motion_sim.motion_node:main
+sensor_simulator = robot_motion_sim.sensor_simulator:main
+
